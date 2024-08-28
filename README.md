@@ -1,81 +1,25 @@
-# Awesome Open Source Games [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Unity Source Code Games [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <!-- Uncomment the awesome badge when the repository is added to awesome main list.
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 -->
 
-Open source games that have the source code available on GitHub.
-
-## Contents
-
-- [Major Companies](#major-companies)
-- [Browser-Based](#browser-based)
-	- [Boardgame](#boardgame)
-	- [Arcade](#arcade)
-	- [FPS](#fps)
-	- [RPG](#rpg)
-	- [MMORPG](#mmorpg)
-	- [Strategy](#strategy)
-	- [Racing](#racing)
-	- [Sandbox](#sandbox)
-	- [Puzzle](#puzzle)
-	- [Clicker](#clicker)
-	- [Point and Click](#point-and-click)
-	- [Others](#others)
-- [Native](#native)
-	- [Action](#action)
-	- [Arcade](#arcade-1)
-	- [Rhythm](#rhythm)
-	- [FPS](#fps-1)
-	- [MMORPG](#mmorpg-1)
-	- [RPG](#rpg-1)
-	- [Platform](#platform)
-	- [Puzzle/card/board](#puzzlecardboard)
-	- [Racing](#racing-1)
-	- [Programming](#programming)
-	- [Sandbox](#sandbox-1)
-	- [Strategy](#strategy-1)
-- [Mobile Games](#mobile-games)
-	- [Android](#android)
-	- [IOS](#ios)
-- [Chat bots](#chat-bots)
-- [Just The Source](#just-the-source)
-- [Frameworks/Engines/Libraries](#frameworksengineslibraries)
-- [Maps/Hacks/Plugins/Utilities/All of the Things™](#mapshackspluginsutilitiesall-of-the-things)
-
-## Major Companies
-
-A selection of major game studios, publishers, etc. using GitHub:
-
-[<img src="https://github.com/zynga.png" title="Zynga" height="50">](https://github.com/zynga)&nbsp;
-[<img src="https://github.com/mojang.png" title="Mojang" height="50">](https://github.com/mojang)&nbsp;
-[<img src="https://github.com/riotgames.png" title="Riot Games" height="50">](https://github.com/riotgames)&nbsp;
-[<img src="https://github.com/epicgames.png" title="Epic Games" height="50">](https://github.com/epicgames)&nbsp;
-[<img src="https://github.com/OculusVR.png" title="Oculus VR Inc" height="50">](https://github.com/OculusVR)&nbsp;
-[<img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">](https://github.com/unity-technologies)&nbsp;
-[<img src="https://github.com/electronicarts.png" title="Electronic Arts" height="50">](https://github.com/electronicarts)&nbsp;
-[<img src="https://github.com/valvesoftware.png" title="Valve" height="50">](https://github.com/valvesoftware)&nbsp;
-[<img src="https://github.com/gree.png" title="GREE" height="50">](https://github.com/gree)&nbsp;
-[<img src="https://github.com/dena.png" title="DeNA" height="50">](https://github.com/dena)&nbsp;
-[<img src="https://github.com/playgameservices.png" title="Google Play Game Services" height="50">](https://github.com/playgameservices)&nbsp;
-[<img src="https://github.com/blizzard.png" title="Blizzard" height="50">](https://github.com/blizzard)&nbsp;
-[<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
+Unity source games that have the source code available on Sellmysrc.com
 
 
-## Browser-Based
+### Popular Source Code
 
+- [FIFA Mobile Complete Unity Project](https://sellmysrc.com/item/fifa-mobile-complete-unity-project) - UEFA EURO 2024™ Tournament & CONMEBOL COPA América™ content is now live as we celebrate the Summer of Soccer!
+![image](https://github.com/user-attachments/assets/7aa19c33-4bb4-4d8f-a187-a28010247656)
 
-### Boardgame
+- [MMA Legends - Fighting Game Complete Unity Project](https://sellmysrc.com/item/mma-legends--fighting-game-complete-unity-project) - Looking for cool fighting games? Enjoying sports games with famous UFC stars? MMA Legends is a fighting game where you need to train your MMA boxer and fight against boxing legends.
+![image](https://github.com/user-attachments/assets/a27f5dbe-2f6d-4577-80e9-dcad062c1cc2)
 
-- [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
-- [c4](https://github.com/kenrick95/c4) - Connect Four game where player is playing against an AI.
 - [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer.
 - [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JavaScript.
 - [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
 - [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
 
-
-### Arcade
 
 - [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - Help Alge escape by moving through the levels to the escape tube.
 - [Alien Invasion](https://github.com/cykod/AlienInvasion) - Don't let the aliens reach the bottom, eliminate them using your spaceship.
